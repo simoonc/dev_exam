@@ -1,2 +1,6 @@
 second file
+<<<<<<< HEAD
 hello
+=======
+2. file
+>>>>>>> 3f5b25a12c37a21e797d62e176cea2106ff7d393
