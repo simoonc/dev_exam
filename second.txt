@@ -1,2 +1,4 @@
 second file
 yes conf
+both
+no conf
