@@ -1,6 +1,2 @@
 second file
-<<<<<<< HEAD
-also
-=======
-this is a conflict
->>>>>>> 5173a4072a7ad56a97d919014fc2c3b0b9161551
+yes conf
